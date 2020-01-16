@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Dance" src="https://media.tenor.com/images/bcd51b836a2825175d1a6d7db4381cec/tenor.gif">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
